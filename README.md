@@ -76,6 +76,7 @@ For example, filtering to Latin America alone shows the SLA breach rate jump fro
 - `liswa_service_tickets.csv` — generated dataset (2,000 tickets)
 - `root_cause_analysis.py` — SLA/MTTR/repeat-ticket breakdown analysis
 - `BRD_Lab_Instrument_Service_Warranty_Analytics.md` — full Business Requirements Document
+- `RTM.md` — Requirements Traceability Matrix tracing each requirement to its root cause and validation criteria
 - `diagrams/` — As-Is and To-Be process diagrams, Jira board, and dashboard screenshots
 
 ---
